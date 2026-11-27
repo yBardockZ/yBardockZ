@@ -2,7 +2,7 @@
 
 Cloud Engineer com base em desenvolvimento de software, certificado **AWS Solutions Architect – Associate** e **Cloud Practitioner**. Construo e automatizo infraestrutura na AWS com Terraform, Docker e CI/CD.
 
-- 🔭 Construindo: deploy do [Discord Voice Tracker Bot](LINK_DO_REPO) na AWS com Terraform, ECS Fargate, RDS e GitHub Actions
+- 🔭 Construindo: deploy do [Discord Voice Tracker Bot](https://github.com/yBardockZ/discord-voice-bot) na AWS com Terraform, ECS Fargate, RDS e GitHub Actions
 - 🎓 Concluindo Ciência da Computação
 - 🤝 Dev full-stack
 
