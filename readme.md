@@ -4,7 +4,7 @@ Cloud Engineer com base em desenvolvimento de software, certificado **AWS Soluti
 
 - 🔭 Construindo: deploy do [Discord Voice Tracker Bot](LINK_DO_REPO) na AWS com Terraform, ECS Fargate, RDS e GitHub Actions
 - 🎓 Concluindo Ciência da Computação
-- 🤝 Dev full-stack voluntário na ONG Movimento Futuro
+- 🤝 Dev full-stack
 
 **Cloud & DevOps**
 
