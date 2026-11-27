@@ -1,20 +1,28 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yBardockZ&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+### Olá, eu sou o Thalles 👋
 
-### Olá, meu nome é Thalles!
+Cloud Engineer com base em desenvolvimento de software, certificado **AWS Solutions Architect – Associate** e **Cloud Practitioner**. Construo e automatizo infraestrutura na AWS com Terraform, Docker e CI/CD.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Thalles&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+- 🔭 Construindo: deploy do [Discord Voice Tracker Bot](LINK_DO_REPO) na AWS com Terraform, ECS Fargate, RDS e GitHub Actions
+- 🎓 Concluindo Ciência da Computação
+- 🤝 Dev full-stack voluntário na ONG Movimento Futuro
 
-<p>Estudante de Ciência da computação<br/> Desenvolvedor Back-end</p>
+**Cloud & DevOps**
 
-## 🛠 Habilidades
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,mysql&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mongo&theme=light)](https://skillicons.dev)
-##
+**Back-end**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yBardockZ&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-#
+📫 [LinkedIn](https://www.linkedin.com/in/thalles-leopoldino) · [Portfólio](LINK_DO_PORTFOLIO) · thalles_leopoldino@outlook.com
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yBardockZ/yBardockZ/output/github-contribution-grid-snake-dark.svg">
